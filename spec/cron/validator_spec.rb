@@ -1,4 +1,3 @@
-require_relative '../../constants/cron'
 require_relative '../../cron/validator'
 
 describe Cron::Validator do
