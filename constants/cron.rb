@@ -1,5 +1,3 @@
-SYNTAX_houREGEX = /^(?:[1-9]?\d|\*)(?:(?:[\/-][1-9]?\d)|(?:,[1-9]?\d)+)?$/
-
 MINUTES_RANGE = *(0..59)
 HOURS_RANGE =  *(0..23)
 MONTHS_RANGE = *(1..12)
